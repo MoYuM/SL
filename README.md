@@ -1,2 +1,15 @@
-# SL.github.io
-Sentence reading Philosophische Untersuchungen
+# umi project
+
+## Getting Started
+
+Install dependencies,
+
+```bash
+$ yarn
+```
+
+Start the dev server,
+
+```bash
+$ yarn start
+```
