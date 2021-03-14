@@ -8,4 +8,7 @@ export default defineConfig({
   fastRefresh: {},
   outputPath: '/docs/',
   publicPath: './',
+  history: {
+    type: 'hash',
+  },
 });
