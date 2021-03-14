@@ -7,5 +7,5 @@ export default defineConfig({
   routes: [{ path: '/', component: '@/pages/index' }],
   fastRefresh: {},
   outputPath: '/docs/',
-  history: { type: 'hash' },
+  publicPath: './',
 });
