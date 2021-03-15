@@ -1,4 +1,5 @@
 import styles from './index.less';
+import octokit from '@/api';
 
 export default function IndexPage() {
   return (
